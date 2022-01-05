@@ -2,14 +2,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>academy.alex</groupId>
   <artifactId>custommatcher</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
 
   
   <dependencies>  
     <dependency>  
-      <groupId>academy.alex</groupId>  
-      <artifactId>custommatcher</artifactId>  
-      <version>1.0</version>
+      <groupId>${maven.groupId}</groupId>  
+      <artifactId>${maven.artifactId}</artifactId>  
+      <version>${maven.version}</version>
       <scope>test</scope>
     </dependency>  
   </dependencies>  
