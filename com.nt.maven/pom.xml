@@ -3,11 +3,7 @@
   <groupId>academy.alex</groupId>
   <artifactId>custommatcher</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-   <repository>
-     <id>github</id>
-     <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://repo1.maven.org/maven2</url>
-   </repository>
+
   
   <dependencies>  
     <dependency>  
@@ -22,5 +18,9 @@
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
- 
+    <repository>
+     <id>github</id>
+     <name>GitHub OWNER Apache Maven Packages</name>
+     <url>https://repo1.maven.org/maven2</url>
+   </repository>
   </project>
