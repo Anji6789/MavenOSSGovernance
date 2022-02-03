@@ -30,5 +30,10 @@
      <name>GitHub OWNER Apache Maven Packages</name>
      <url>https://maven.pkg.github.com/Anji6789/MavenOSSGovernance</url>
    </repository>
+   <repository>
+     <id>central</id>
+     <name>plugins-releases</name>
+     <url>http://serverip:8081/artifactory/plugins-release-local</url>
+    </repository>
   </distributionManagement>
   </project>
