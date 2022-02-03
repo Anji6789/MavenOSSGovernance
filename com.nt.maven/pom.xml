@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>academy.alex</groupId>
   <artifactId>custommatcher</artifactId>
-  <version>1.0</version>
+  <version>2.0</version>
   <repositories>
       <repository>
         <id>github</id>
